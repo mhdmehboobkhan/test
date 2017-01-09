@@ -1,0 +1,111 @@
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\ApplicationInsights.config
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\csc.exe
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\vbc.exe
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\VBCSCompiler.exe
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\TestApp.dll.config
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\TestApp.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\TestApp.pdb
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Antlr3.Runtime.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.AI.Web.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Newtonsoft.Json.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.Helpers.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.Mvc.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.Optimization.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.Razor.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.WebPages.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.WebPages.Razor.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\WebGrease.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.AI.Web.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.Helpers.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.Mvc.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.Optimization.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.Razor.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.WebPages.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\System.Web.WebPages.Razor.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Antlr3.Runtime.pdb
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Newtonsoft.Json.xml
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\obj\Debug\TestApp.dll
+c:\users\mehboob.khan.crttech\documents\visual studio 2015\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
+D:\Sample Projects\TestApp\TestApp\bin\ApplicationInsights.config
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\csc.exe
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\vbc.exe
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\VBCSCompiler.exe
+D:\Sample Projects\TestApp\TestApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Sample Projects\TestApp\TestApp\bin\TestApp.dll.config
+D:\Sample Projects\TestApp\TestApp\bin\TestApp.dll
+D:\Sample Projects\TestApp\TestApp\bin\TestApp.pdb
+D:\Sample Projects\TestApp\TestApp\bin\Antlr3.Runtime.dll
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.AI.Web.dll
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.ApplicationInsights.dll
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Sample Projects\TestApp\TestApp\bin\Newtonsoft.Json.dll
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.Helpers.dll
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.Mvc.dll
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.Optimization.dll
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.Razor.dll
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.WebPages.Deployment.dll
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.WebPages.dll
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.WebPages.Razor.dll
+D:\Sample Projects\TestApp\TestApp\bin\WebGrease.dll
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.AI.Web.xml
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.ApplicationInsights.xml
+D:\Sample Projects\TestApp\TestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.Helpers.xml
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.Mvc.xml
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.Optimization.xml
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.Razor.xml
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.WebPages.xml
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.WebPages.Deployment.xml
+D:\Sample Projects\TestApp\TestApp\bin\System.Web.WebPages.Razor.xml
+D:\Sample Projects\TestApp\TestApp\bin\Antlr3.Runtime.pdb
+D:\Sample Projects\TestApp\TestApp\bin\Newtonsoft.Json.xml
+D:\Sample Projects\TestApp\TestApp\obj\Debug\TestApp.dll
+D:\Sample Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
+D:\Sample Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\Sample Projects\TestApp\TestApp\bin\x64\liblept172.dll
+D:\Sample Projects\TestApp\TestApp\bin\x64\libtesseract304.dll
+D:\Sample Projects\TestApp\TestApp\bin\x86\liblept172.dll
+D:\Sample Projects\TestApp\TestApp\bin\x86\libtesseract304.dll
+D:\Sample Projects\TestApp\TestApp\bin\Tesseract.dll
+D:\Sample Projects\TestApp\TestApp\bin\Tesseract.xml
